@@ -263,6 +263,15 @@ Known Problems:
   there are unconfirmed reports that it works as root though.
   musl libc is unaffected from the bug.
 
+Useful links
+------------
+the following sites may prove useful to check for leaks:
+https://ipfighter.com/
+https://browserleaks.com/webrtc
+https://dnsleaktest.com
+http://check.torproject.org - tor specific
+http://ifconfig.me - can be used via curl
+http://ifconfig.io/
 
 Community:
 ----------
